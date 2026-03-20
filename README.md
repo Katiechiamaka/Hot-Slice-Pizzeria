@@ -1,7 +1,4 @@
-<img width="1026" height="62" alt="image" src="https://github.com/user-attachments/assets/76e9c386-395a-4253-add6-fa3727fd3a20" /># Hot Slice Pizzeria
-
-<img width="1379" height="778" alt="Screenshot 2026-03-20 233147" src="https://github.com/user-attachments/assets/4073d8ca-f9c2-4e90-bb4e-d7a7b44891e7" />
-
+# Hot Slice Pizzeria
 # Project Overview
 Hot Slice Pizzeria is a fictional family-owned pizzeria located in the heart of a bustling city, specializing in gourmet, hand-tossed pizzas. Established in 2013, the pizzeria has gained a loyal customer base due to its commitment to fresh ingredients and a personalized customer experience. In 2015, Hot Slice’s Pizzeria decided to start analyzing its sales data to better understand customer preferences, and drive revenue growth for the single location.
 
