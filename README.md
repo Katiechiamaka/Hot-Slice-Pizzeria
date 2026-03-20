@@ -37,7 +37,20 @@ Hot Slice's Pizzeria, a local pizza shop, aims to improve its sales performance 
 
 
 # Key Insights
+### Hourly Sales Analysis
+<img width="1346" height="760" alt="Screenshot 2026-03-21 003033" src="https://github.com/user-attachments/assets/7aced17e-83ae-4364-becd-dd7c8b0e6e09" />
 
+
+### Monthly Orders and Revenue Generated
+<img width="1330" height="752" alt="Screenshot 2026-03-21 004009" src="https://github.com/user-attachments/assets/55cf3ad0-068a-4081-b66b-93ab8c070433" />
+
+
+### Pizza Sales by Category Performance
+<img width="1337" height="733" alt="Screenshot 2026-03-21 003014" src="https://github.com/user-attachments/assets/fb3aa3a6-448e-4068-b382-e13f0c64f486" />
+
+
+### Top And Bottom Revenue Generating Pizza Type
+<img width="1327" height="752" alt="Screenshot 2026-03-21 004300" src="https://github.com/user-attachments/assets/3e238723-2841-4e7e-ac71-3bd43788ec65" />
 
 
 ### Pizza Orders insights
@@ -50,6 +63,7 @@ Hot Slice's Pizzeria, a local pizza shop, aims to improve its sales performance 
 
 ### Least Used Pizza Ingredients
 <img width="1337" height="754" alt="Screenshot 2026-03-21 002556" src="https://github.com/user-attachments/assets/0fae3287-f387-484c-8d92-8cf132c5e6c4" />
+
 
 
 # Recommendations
