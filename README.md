@@ -38,15 +38,15 @@ Hot Slice's Pizzeria, a local pizza shop, aims to improve its sales performance 
 
 # Key Insights
 ### Hourly Sales Analysis
-<img width="1346" height="760" alt="Screenshot 2026-03-21 003033" src="https://github.com/user-attachments/assets/7aced17e-83ae-4364-becd-dd7c8b0e6e09" />
+<img width="1339" height="743" alt="Screenshot 2026-03-21 010215" src="https://github.com/user-attachments/assets/33fed2e2-c739-4c78-aa30-1995f9fb6efc" />
 
 
 ### Monthly Orders and Revenue Generated
-<img width="1330" height="752" alt="Screenshot 2026-03-21 004009" src="https://github.com/user-attachments/assets/55cf3ad0-068a-4081-b66b-93ab8c070433" />
+<img width="1330" height="735" alt="Screenshot 2026-03-21 010045" src="https://github.com/user-attachments/assets/f7de4946-bb61-4ad4-b197-1411ac8ea17e" />
 
 
 ### Pizza Sales by Category Performance
-<img width="1337" height="733" alt="Screenshot 2026-03-21 003014" src="https://github.com/user-attachments/assets/fb3aa3a6-448e-4068-b382-e13f0c64f486" />
+<img width="1325" height="733" alt="Screenshot 2026-03-21 005427" src="https://github.com/user-attachments/assets/26ec8598-585d-4557-a45d-1583e02b3aef" />
 
 
 ### Top And Bottom Revenue Generating Pizza Type
